@@ -1,0 +1,8 @@
+a = 100
+b = a + a
+c = b*3
+print(c)
+
+x = "test"
+y = x + x
+z = y
