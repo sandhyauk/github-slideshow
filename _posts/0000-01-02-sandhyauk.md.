@@ -6,3 +6,6 @@ print(c)
 x = "test"
 y = x + x
 z = y
+
+print(z)
+print(c+z
